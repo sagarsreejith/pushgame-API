@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: gleams
+        psr4_prefix: gleams
+        src_path: app
